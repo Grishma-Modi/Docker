@@ -1,6 +1,6 @@
 # Dockers
 
-Bank Note Authentication using Random Forest.
+Bank Note Authentication using Random Forest Classification.
 
 Covering of Flask Implementation.
 
