@@ -6,7 +6,7 @@ Covering of Flask Implementation.
 
 Deployed model using Flask and Flassger.
 
-Docker instalattion with implementation.
+Docker instalation with implementation.
 
 Deploy model using Dockers and Flask.
 
